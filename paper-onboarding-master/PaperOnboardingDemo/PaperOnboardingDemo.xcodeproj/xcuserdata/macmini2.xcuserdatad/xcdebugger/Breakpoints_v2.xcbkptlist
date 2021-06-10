@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "2AD1092A-29DC-46BB-9B57-933DA5E974BF"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4C7DFA26-FAB1-460A-9216-F5F905CFA53A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../Source/PaperOnboarding.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "107"
+            endingLineNumber = "107"
+            landmarkName = "currentIndex(_:animated:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4C7DFA26-FAB1-460A-9216-F5F905CFA53A - 961122250bc352fc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PaperOnboardingDemo.PaperOnboarding.currentIndex(_: Swift.Int, animated: Swift.Bool) -&gt; ()"
+                  moduleName = "PaperOnboardingDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macmini2/Downloads/paper-onboarding-master/Source/PaperOnboarding.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "107"
+                  endingLineNumber = "107"
+                  offsetFromSymbolStart = "1498">
+               </Location>
+               <Location
+                  uuid = "4C7DFA26-FAB1-460A-9216-F5F905CFA53A - a901a0ecfb4b5e92"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PaperOnboarding.PaperOnboarding.currentIndex(_: Swift.Int, animated: Swift.Bool) -&gt; ()"
+                  moduleName = "PaperOnboarding"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macmini2/Downloads/paper-onboarding-master/Source/PaperOnboarding.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "107"
+                  endingLineNumber = "107"
+                  offsetFromSymbolStart = "1498">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F1A3A8F5-2C22-4160-BD88-386534A646AE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../Source/FillAnimationView/FillAnimationView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "51"
+            endingLineNumber = "51"
+            landmarkName = "fillAnimation2(_:centerPosition:duration:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F1A3A8F5-2C22-4160-BD88-386534A646AE - ffa713e94f1eebb7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PaperOnboardingDemo.FillAnimationView.fillAnimation2(_: __C.UIColor, centerPosition: __C.CGPoint, duration: Swift.Double) -&gt; ()"
+                  moduleName = "PaperOnboardingDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macmini2/Downloads/paper-onboarding-master/Source/FillAnimationView/FillAnimationView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "89">
+               </Location>
+               <Location
+                  uuid = "F1A3A8F5-2C22-4160-BD88-386534A646AE - e90f27a31b798a27"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PaperOnboarding.FillAnimationView.fillAnimation2(_: __C.UIColor, centerPosition: __C.CGPoint, duration: Swift.Double) -&gt; ()"
+                  moduleName = "PaperOnboarding"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macmini2/Downloads/paper-onboarding-master/Source/FillAnimationView/FillAnimationView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "89">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
